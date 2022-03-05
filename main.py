@@ -9,8 +9,8 @@ global alreadyDonePays
 global dico
 
 #
-# @author Erwan - 2nde5
-# erwanx3z@gmail.com - github.com/erwanx2z
+# @author Erwan
+# Github: github.com/erwanx2z
 #
 def main():
     global totalQuestions
